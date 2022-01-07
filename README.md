@@ -55,3 +55,6 @@ service.yaml
               targetPort: 8080
           selector:
             app: my-app
+
+Обзор созданного кластера
+https://drive.google.com/file/d/1FkDkBK7qe0qM_mLuS1O66-_RtyuSYXe2/view?usp=sharing
